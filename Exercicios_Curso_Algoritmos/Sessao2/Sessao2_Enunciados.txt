@@ -1,0 +1,30 @@
+Exercicios Sessão 2
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Exercicio_1 -> Faça um algoritmo para "calcular o estoque médio de uma peça", sendo que:
+
+estoque medio = ( quantidade_minima + quantidade_maxima) / 2
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Exercicio_2 -> Faça um algoritmo que peça dois números e imprima a soma.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Exercicio_3 -> Faça um algoritmo que converta metros em centímetros.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Exercicio_4 -> Faça um algoritmo que pergunte quanto você ganha por hora e o número de horas trabalhadas no mês.
+	       Calcule e mostre o total do seu salário no referido mês.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Exercicio_5 -> Tendo como dados de entrada a altura de uma pessoa, construa um algoritmo que calcule seu peso ideal, 
+	       usando a seguinte fórmula: (72.7 * altura) - 58
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+

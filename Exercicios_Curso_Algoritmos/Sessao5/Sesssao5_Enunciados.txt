@@ -1,0 +1,31 @@
+Exercícios Sessão 5
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Exercício_1 -> Faça um algoritmo que carregue um vetor de 5 elementos inteiros e em seguida armazene em um vetor apenas os números pares maiores que 0.
+	       No final deve mostrar os elementos do vetor na tela.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Exercício_2 -> Escreva um algoritmo que leia dois vetores de 10 posições e faça a soma dos elementos de mesmo índice, 
+	       colocando o resultado em um terceiro vetor. Mostre o vetor resultante.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Exercício_3 ->  Faça um porgrama que carregue um vetor com dez números inteiros. Mostre o vetor na ordem inversa a que foi digitada.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Exercício_4 -> Escrea um algoritmo que leia e mostre um vetor de 20 elementos inteiros, em seguida, mostre a soma de todos os elementos.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Exercício_5 -> Faça um programa que carregue um vetor com dez números inteiros. 
+	       Calcule e mostre os números superiores a 50 e suas respectivas posições. Mostrar mensagem se não existir nenhum número nesta condição. 
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Exercício_¨6 -> Faça um programa que receba um codígo numérico inteiro e um vetor de cinco posições de números reais. Se o código for zero, termine o programa.
+	        Se o código for 1, mostre o vetor na ordem direta. Se o código for 2, mostre o vetor na ordem inversa.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

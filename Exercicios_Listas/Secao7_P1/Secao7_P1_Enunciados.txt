@@ -1,0 +1,46 @@
+Sessão 7 - P1
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Exercício_1 -> Faça um programa que possua um vetor denominado A que armazena 6 números inteiros.
+	       O programa deve executar os seguintes passos:
+	
+a) Atribua os seguintes valores a esse vetor: 1,0,5,-2,-5,7.
+b) Armazene em uma variável inteira a soma entre os valores das posições A[0], A[1] e A[5] do vetor e mostre na tela esta soma.
+c) Modifique o vetor na posição 4, atribuindo a esta posição o valor 100.
+d) Mostre na tela cada valor do vetor A, um em cada linha.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Exercicio_2 -> Faça um programa que receba 6 números inteiros e mostre:
+
+a) Os números pares digitados;
+b) A soma dos números pares digitados;
+c) Os números ímpares digitados;
+d) A quantidade de números ímpares digitados;
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Exercício_3 -> Faça um programa que leia dois vetores de 10 elementos, Crie um vetor que seja a intersecção entre os 2 vetores anteriores, ou seja,
+	       que contém apenas os números que estão em ambos os vetores, Não deve conter números repetidos. 
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Exercício_4 -> Leia dois vetores de inteiros "x" e "y" , cada um com 5 elementos(assuma que o usuário não informa elementos repetidos). 
+	       Calcule e mostre os vetores resultantes em cada caso.
+
+a) Soma entre "x" e "y": soma de cada elemento de "x" com o elemento da mesma posição em "y".
+b) Produto entre "x" e "y": multiplicação de cada elemento de "x" com o elemento da mesma posição em "y".
+c) Diferença entre "x" e "y": todos os elementos de "x" não existem em "y".
+d) Insterseção entre "x" e "y": apenas os elementos que aparecem nos dois vetores.
+e) União entre "x" e "y": todos os elementos de "x", e todos os elementos de "y" que não estão em "x".
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Exercício_5 -> Peça ao usuário para digitar dez valores numéricos e ordene por ordem crescente esses valores, 
+	       	guardando-os num netor, Ordene o valor assim que ele for digitado. Mostre ao final na tela os valores em ordem.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+

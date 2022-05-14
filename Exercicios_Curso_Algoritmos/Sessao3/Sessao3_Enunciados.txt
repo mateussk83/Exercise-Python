@@ -1,0 +1,69 @@
+Exercícios Sessão 3
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Exercício_1 -> Ler uma variável numérica n e imprimi-la somente se a mesma for maior que 100, caso contrário imprimi-la com o valor zero.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Exercício_2 -> Elabore um algoritmo que leia um número.Se positivo armazene-o em 'a', se for negativo, em 'b'.
+	       No final mostrar o resultado.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Exercício_3 -> Ler um número e verificar se ele é par ou ímpar. Quando for par armazenar esse valor em 'p' e quando for impar armazená-lo em 'i'.
+	       Exibir 'p' e 'i' no final do processamento.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Exercício_4 -> Tendo como dados de entrada a alura e o sexo de uma pessoa, construa um algoritmo que calcule seu peso ideal, utilizando as seguintes formulas:
+
+Para Homens: (72.7 * altura) - 58
+Para Mulheres: (62.1 * altura) - 44.7
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Exercício_5 -> João da Silva, pescador, comprou um microcomputador para controlar o rendimento diário de seu trabalho. 
+	       Toda vez que ele traz um peso de peixes maior que o estabelecido pelo regulamento de pesca do estado de São Paulo (50 quilos) 
+	       deve pagar uma multa de R$ 4,00 por quilo excedente. João precisa que você faça um algoritmo que leia a variável 'p' (peso de peixes) e 
+	       verifique se há excesso. Se houver, gravar na variável 'e' (excesso) e na variável 'm' o valor da multa de João deverá pagar.
+	       Caso contrário mostrar tais variáveis com o conteúdo 'zero'.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Exercício_6 -> Elabore um algoritmo que leia as variáveis 'c' e 'n', respectivamente código e número de horas trabalhadas de um operário. 
+	       Calcule o salário sabendo-se que ele ganha R$ 10,00 por hora. 
+	       Quando o número de horas exceder a 50 calcule o excesso de pagamento armazenando-o na variável 'e'. Caso contrário zerar tal variável. 
+	       A hora excedente de trablho vale R$ 20,00. No final do processamento imprimir o salário total e o salário excedente.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Exercício_7 -> Desenvolva um algoritmo que:
+
+a) Leia 4 números;
+b) Calcule o quadrado de cada um;
+c) Se o valor resultante do quadrado do terceiro for maior ou igual a 1000, imprima-o e finalize;
+d) Caso contrário, imprima os valores lidos e seus respectivos quadrados.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Exercício_8 -> Faça um algortimo que leia um número inteiro e mostre uma mensagem indicando se este número é par ou ímpar, e se é positivo ou negativo.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Exercício_9 -> A secretaria de Meio Ambiente que controla o índice da poluição mantém 3 grupo de indpustrias que sáo altamente poluentes do meio ambiente. 
+	       O indice de poluição aceitpavel varia de 0,05 até 0,25. Se o índice sobe para 0,3 as indpustrias do 1 grupo são intimadas a 
+	       suspenderem suas atividades, se o índice crescer para 0,4 as industrias do 1 e 2 grupo são intimadas a suspenderem suas atividades, 
+	       se o índice atingir 0,5 todos os grupos devem ser notificados a paralisarem suas aitividades.
+	       Faça um algoritmo que leia o índice de poluiçao medido e emita a notificação adequada aso diferentes grupos de empresas.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Exercício_10 -> Elabore um algoritmo que dada a idade de um nadador clarrifique-o em uma das seguintes categorias:
+
+infantil-a = 5 a 7 anos
+infantil-b = 8 a 11 anos
+juvenil-a = 12 a 13 anos
+juvenil-b = 14 a 17 anos
+adultos = Maiores de 18 anos
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
